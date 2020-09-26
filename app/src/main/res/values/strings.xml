@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMDb</string>
+    <string name="main_item_list_sample">Justice League</string>
+    <string name="main_item_list_sample_bottom">2017  Official Trailer</string>
+</resources>
